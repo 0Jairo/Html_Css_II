@@ -43,6 +43,8 @@ border-color: #000000; (Se usa para asignar el color del borde)
 border-width: 2px; (Se usa para asignar el ancho del borde)
 border-style: solid; (Se usa para asignar el tipo de línea del borde)
 border-radius: 10px; (Se usa para asignar curvatura a los bordes)
+a:hover {color: #C78C19;} (La propiedad hover se usa para capturar el movimiento del mouse (flecha por encima de un elemento, el elemento haga algo, en ese caso cambiar de color))
+li:active {border-color: #088c19;} (La propiedad active se usa para capturar el clicl del mouse (flecha) y tomando el clicl hara algo)
 
 BUSCAR: posicionamientos static, relative y absolute
 
